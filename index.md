@@ -1,37 +1,14 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/fatemehchaharrahi/sop/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fatemehchaharrahi/sop/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+فاطمه هستم، در دبیرستان رشته ریاضی خوانده ام
+در یکی از روزهای تیرماه تابستان وقتی که راهنمایی ام را به اتمام رسانده بودم به اداره پست رفتم، 
+وقتی میدیدم که کارکنان آنجا با کامپیوتر کارهایشان را انجام میدهند بسیار خوشم آمد
+و تصمیم گرفتم رشته ای را انتخاب کنم که در ان کامپیوتر وجود داشته باشد و کم کم با کامپیوتر آشنا شدم.
+چون انجام کارها در زمان کمتری انجام میشود باعث شد من در تصمیم گیری ام مصمم تر شوم
+و اکنون و در حال حاضر وقتی میبینم که میتوانم کارهایی چون درست کردن پاورپوینت یا ورد و برنامه نویسی انجام دهم بسیار خوشحال میشوم 
+چون اینها چیزهایی است که در طول زندگی و تحصیلات به ان نیازمندیم و همیشه در فکر ان هستم
+که بتوانم در زمینه رشته خودم آنقدر پیشرفت کنم که برنامه های گوناگون را بنویسم و سایت هایی را ایجاد کنم که بسیاری از مردمان کشورمان به راحتی و 
+در کمترین زمان کارهایشان را انجام دهند.
+__ انتخاب دانشگاه پیام نور من به این علت است که میتوانم در مواقعی که موقعیت حضور در کلاس را نداریم مشکلی اینجا نمیشود و 
+اینکه از خصوصیات پیام نور خواندن همه ی متن کتاب و یادگیری آن است و مدرکی که به ما میدهند بسیار معتبر است .
+__ امیدوارم همگی در زندگی و تحصیل موفق باشیم
